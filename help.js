@@ -11,194 +11,194 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 
 exports.menuall = (sender, prefix, pushname, ucapanWaktu, tanggal, jam, isOwner) => {
 return `*OTHERS MENU*
-• ${prefix}simi
-• ${prefix}getpp
-• ${prefix}rules
-• ${prefix}stats
-• ${prefix}listgc
-• ${prefix}listpc
-• ${prefix}owner
-• ${prefix}script
-• ${prefix}server
-• ${prefix}runtime
-• ${prefix}dashboard
+あ ${prefix}simi
+あ ${prefix}getpp
+あ ${prefix}rules
+あ ${prefix}stats
+あ ${prefix}listgc
+あ ${prefix}listpc
+あ ${prefix}owner
+あ ${prefix}script
+あ ${prefix}server
+あ ${prefix}runtime
+あ ${prefix}dashboard
 
 *ENCRYPT MENU*
-• ${prefix}enc
-• ${prefix}obfus
-• ${prefix}encrypt
-• ${prefix}obfuscator
+あ ${prefix}enc
+あ ${prefix}obfus
+あ ${prefix}encrypt
+あ ${prefix}obfuscator
 
 *STORE MENU*
-• ${prefix}list
-• ${prefix}addlist
-• ${prefix}dellist
-• ${prefix}update
+あ ${prefix}list
+あ ${prefix}addlist
+あ ${prefix}dellist
+あ ${prefix}update
 
 *KALKULATOR*
-• ${prefix}kali
-• ${prefix}bagi
-• ${prefix}kurang
-• ${prefix}tambah
+あ ${prefix}kali
+あ ${prefix}bagi
+あ ${prefix}kurang
+あ ${prefix}tambah
 
 *TOPUP OTOMATIS*
-• ${prefix}ovo
-• ${prefix}dana
-• ${prefix}gopay
-• ${prefix}shoope
-• ${prefix}topupff
-• ${prefix}topupml
+あ ${prefix}ovo
+あ ${prefix}dana
+あ ${prefix}gopay
+あ ${prefix}shoope
+あ ${prefix}topupff
+あ ${prefix}topupml
 
 *PROSES/DONE*
-• proses < reply chat >
-• done < reply chat >
-• ${prefix}setproses
-• ${prefix}changeproses
-• ${prefix}delsetproses
-• ${prefix}setdone
-• ${prefix}changedone
-• ${prefix}delsetdone
+あ proses < reply chat >
+あ done < reply chat >
+あ ${prefix}setproses
+あ ${prefix}changeproses
+あ ${prefix}delsetproses
+あ ${prefix}setdone
+あ ${prefix}changedone
+あ ${prefix}delsetdone
 
 *WELCOME/LEFT*
-• ${prefix}getleft
-• ${prefix}setleft
-• ${prefix}delleft
-• ${prefix}changeleft
-• ${prefix}setwelcome
-• ${prefix}delwelcome
-• ${prefix}getwelcome
-• ${prefix}changewelcome
+あ ${prefix}getleft
+あ ${prefix}setleft
+あ ${prefix}delleft
+あ ${prefix}changeleft
+あ ${prefix}setwelcome
+あ ${prefix}delwelcome
+あ ${prefix}getwelcome
+あ ${prefix}changewelcome
 
 *OPEN/CLOSE*
-• ${prefix}setclose
-• ${prefix}setopen
-• ${prefix}delclose
-• ${prefix}delopen
-• ${prefix}getopen
-• ${prefix}getclose
+あ ${prefix}setclose
+あ ${prefix}setopen
+あ ${prefix}delclose
+あ ${prefix}delopen
+あ ${prefix}getopen
+あ ${prefix}getclose
 
 *SEWA ADD/DEL*
-• ${prefix}delsewa
-• ${prefix}addsewa
-• ${prefix}listsewa
+あ ${prefix}delsewa
+あ ${prefix}addsewa
+あ ${prefix}listsewa
 
 *GROUP SETTING*
-• ${prefix}left on
-• ${prefix}left off
-• ${prefix}antilink on
-• ${prefix}antilink off
-• ${prefix}antiwame on
-• ${prefix}antiwame off
-• ${prefix}welcome on
-• ${prefix}welcome off
+あ ${prefix}left on
+あ ${prefix}left off
+あ ${prefix}antilink on
+あ ${prefix}antilink off
+あ ${prefix}antiwame on
+あ ${prefix}antiwame off
+あ ${prefix}welcome on
+あ ${prefix}welcome off
 
 *GROUP MENU*
-• ${prefix}add
-• ${prefix}kick
-• ${prefix}linkgc
-• ${prefix}infogrup
-• ${prefix}promote
-• ${prefix}demote
-• ${prefix}hidetag
-• ${prefix}tagall
-• ${prefix}open
-• ${prefix}close
-• ${prefix}ceksewa
-• ${prefix}setppgc
-• ${prefix}setppgc 'panjang'
-• ${prefix}setnamegc
-• ${prefix}setdesc
-• ${prefix}revoke
+あ ${prefix}add
+あ ${prefix}kick
+あ ${prefix}linkgc
+あ ${prefix}infogrup
+あ ${prefix}promote
+あ ${prefix}demote
+あ ${prefix}hidetag
+あ ${prefix}tagall
+あ ${prefix}open
+あ ${prefix}close
+あ ${prefix}ceksewa
+あ ${prefix}setppgc
+あ ${prefix}setppgc 'panjang'
+あ ${prefix}setnamegc
+あ ${prefix}setdesc
+あ ${prefix}revoke
 
 *OWNER MENU*
-• ${prefix}bc
-• ${prefix}join
-• ${prefix}left
-• ${prefix}self
-• ${prefix}public
-• ${prefix}resetlist
-• ${prefix}sendsesi
-• ${prefix}creategc
-• ${prefix}setppbot
-• ${prefix}setthumb
-• ${prefix}broadcast
-• ${prefix}block 628xxx
-• ${prefix}unblock 628xxx
-• ${prefix}setppbot 'panjang'
+あ ${prefix}bc
+あ ${prefix}join
+あ ${prefix}left
+あ ${prefix}self
+あ ${prefix}public
+あ ${prefix}resetlist
+あ ${prefix}sendsesi
+あ ${prefix}creategc
+あ ${prefix}setppbot
+あ ${prefix}setthumb
+あ ${prefix}broadcast
+あ ${prefix}block 628xxx
+あ ${prefix}unblock 628xxx
+あ ${prefix}setppbot 'panjang'
 
 *CONVERT/TOOLS*
-• ${prefix}tts
-• ${prefix}ttp
-• ${prefix}attp
-• ${prefix}font
-• ${prefix}font2
-• ${prefix}isgd
-• ${prefix}tourl
-• ${prefix}cuttly
-• ${prefix}tinyurl
-• ${prefix}nulis
-• ${prefix}ssweb
-• ${prefix}shorturl
-• ${prefix}sticker
-• ${prefix}toimg
-• ${prefix}emojimix
-• ${prefix}emojimix2
-• ${prefix}base32
-• ${prefix}base64
-• ${prefix}debase32
-• ${prefix}debase64
+あ ${prefix}tts
+あ ${prefix}ttp
+あ ${prefix}attp
+あ ${prefix}font
+あ ${prefix}font2
+あ ${prefix}isgd
+あ ${prefix}tourl
+あ ${prefix}cuttly
+あ ${prefix}tinyurl
+あ ${prefix}nulis
+あ ${prefix}ssweb
+あ ${prefix}shorturl
+あ ${prefix}sticker
+あ ${prefix}toimg
+あ ${prefix}emojimix
+あ ${prefix}emojimix2
+あ ${prefix}base32
+あ ${prefix}base64
+あ ${prefix}debase32
+あ ${prefix}debase64
 
 *DOWNLOADER*
-• ${prefix}play
-• ${prefix}musik
-• ${prefix}tiktok
-• ${prefix}ytmp3
-• ${prefix}ytmp4
-• ${prefix}gitclone
-• ${prefix}mediafire
-• ${prefix}sosmed
-• ${prefix}facebook
-• ${prefix}soundcloud
+あ ${prefix}play
+あ ${prefix}musik
+あ ${prefix}tiktok
+あ ${prefix}ytmp3
+あ ${prefix}ytmp4
+あ ${prefix}gitclone
+あ ${prefix}mediafire
+あ ${prefix}sosmed
+あ ${prefix}facebook
+あ ${prefix}soundcloud
  
 *SEARCHING*
-• ${prefix}nickff
-• ${prefix}nickml
-• ${prefix}stalkgithub
-• ${prefix}nicksupersus
+あ ${prefix}nickff
+あ ${prefix}nickml
+あ ${prefix}stalkgithub
+あ ${prefix}nicksupersus
 
 *INFORMATION*
-• ${prefix}lirik
-• ${prefix}cerpen
-• ${prefix}google
-• ${prefix}gimage
-• ${prefix}styletext
-• ${prefix}pinterest
-• ${prefix}wikimedia
-• ${prefix}infogempa
+あ ${prefix}lirik
+あ ${prefix}cerpen
+あ ${prefix}google
+あ ${prefix}gimage
+あ ${prefix}styletext
+あ ${prefix}pinterest
+あ ${prefix}wikimedia
+あ ${prefix}infogempa
 
 *ANONYMOUS*
-• ${prefix}start
-• ${prefix}stop
-• ${prefix}next
-• ${prefix}sendprofil
-• ${prefix}anonymous
+あ ${prefix}start
+あ ${prefix}stop
+あ ${prefix}next
+あ ${prefix}sendprofil
+あ ${prefix}anonymous
 
 *IMAGE EDITOR*
-• ${prefix}tourl
-• ${prefix}hitler
-• ${prefix}yasin
-• ${prefix}putin
-• ${prefix}resize
-• ${prefix}police
-• ${prefix}smeme
-• ${prefix}petimati
-• ${prefix}discordblue
-• ${prefix}discordblack
+あ ${prefix}tourl
+あ ${prefix}hitler
+あ ${prefix}yasin
+あ ${prefix}putin
+あ ${prefix}resize
+あ ${prefix}police
+あ ${prefix}smeme
+あ ${prefix}petimati
+あ ${prefix}discordblue
+あ ${prefix}discordblack
 
 *EXECUTE*
-• $
-• >
-• x`
+あ $
+あ >
+あ x`
 }
 
 exports.textprem  = (sender, prefix) => {
