@@ -220,7 +220,8 @@ return `*DONASI BOT*
 ➭ Pulsa : 085730794089
     
 *Qris All Payment :*
-https://telegra.ph/file/d9393bac1bb5d46696232.jpg`
-}
+https://telegra.ph/file/d9393bac1bb5d46696232.jpg
 
-*TERIMA KASIH ORANG BAIK🥰*
+
+*TERIMA KASIH ORANG BAIK🥰*`
+}
