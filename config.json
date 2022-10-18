@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6281215626270@s.whatsapp.net", 
-    "ownerName": "Denara Bot", 
-    "botName": "Ocho-Bot",
-    "footer": "© OCHOBOT | 2022", 
+    "ownerNumber": "6285730794089@s.whatsapp.net", 
+    "ownerName": "Gilzz🗿", 
+    "botName": "Gilz-Bot",
+    "footer": "© GILZBOT | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Denara Bot"
+        "packname": "© Agil Aza",
+        "author": "Gilz Bot"
     }
 }
