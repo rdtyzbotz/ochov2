@@ -4,7 +4,7 @@
     "botName": "Gilz-Bot",
     "footer": "© GILZBOT | 2022", 
     "sessionName": "session", 
-    "pathimg": "./media/agilaza.jpg", 
+    "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     
     "limitCount": 100,
